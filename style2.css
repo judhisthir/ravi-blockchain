@@ -1,0 +1,14 @@
+body{
+    background-image: url(images/blk1);
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 5rem;
+}
+p{
+    font-size: 3rem;
+}
+li{
+    font-size: 3rem;
+}
