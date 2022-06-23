@@ -1,6 +1,6 @@
 body{
     background-color: red ;
-    padding: 3% 7%;
+    padding: 3% 10%;
 }
 dt{
     font-size: 3rem;
@@ -52,4 +52,17 @@ img{
     font-weight: 500;
     font-size: 1rem;
 
+}
+.sec3list{
+    margin: 6% 100px;
+}
+ul li{
+    font-size: 2rem;
+}
+.BEB{
+    width:75%;
+    align-self: center;
+}
+.img{
+    text-align: center;
 }
