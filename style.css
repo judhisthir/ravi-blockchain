@@ -1,9 +1,30 @@
 body{
     background-color: red ;
+    padding: 3% 7%;
+}
+dt{
+    font-size: 3rem;
+    font-family: 'Merriweather', sans-serif;
+    font-weight: 400;
+}
+dd{
+    font-size: 1.25rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
 }
 .navbar{
     background-color: rgb(72, 54, 54);
 }
+.navbar:hover{
+    background-color: rgb(72, 54, 54);
+}
+
 .navbar-brand{
     margin-left: .5rem;
+}
+.img-div{
+    text-align: center;
+}
+#section1{
+    margin: 5% 10%;
 }
