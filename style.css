@@ -6,25 +6,50 @@ dt{
     font-size: 3rem;
     font-family: 'Merriweather', sans-serif;
     font-weight: 400;
+    text-align: left;
 }
 dd{
     font-size: 1.25rem;
     font-family: 'Ubuntu', sans-serif;
     font-weight: 400;
+    text-align: left;
 }
 .navbar{
     background-color: rgb(72, 54, 54);
+    border-radius: .40rem;
 }
 .navbar:hover{
     background-color: rgb(72, 54, 54);
 }
 
 .navbar-brand{
-    margin-left: .5rem;
+    margin-left: .75rem;
 }
 .img-div{
     text-align: center;
 }
+img{
+    width: 60%;
+}
+/* .sec2-defe{
+    text-align: right;
+} */
 #section1{
     margin: 5% 10%;
+}
+#section3{
+    text-align: center;
+    margin-top: 10%;
+    
+}
+.sec3-p{
+    font-family: 'Ubuntu',sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+}
+.author{
+    font-family: 'Ubuntu',sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+
 }
