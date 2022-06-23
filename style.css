@@ -1,0 +1,9 @@
+body{
+    background-color: red ;
+}
+.navbar{
+    background-color: rgb(72, 54, 54);
+}
+.navbar-brand{
+    margin-left: .5rem;
+}
